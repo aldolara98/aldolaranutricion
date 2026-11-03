@@ -1,0 +1,7 @@
+ALDO LARA — SITIO V2
+
+PUBLICAR: Subir a Netlify SOLO index.html y la carpeta gracias/ (no el editor). En Netlify > Forms habilitar detección de formularios ANTES de publicar. Probar un envío y verificar Forms > solicitudes-consulta.
+
+EDITAR: Abrir EDITOR_LOCAL_NO_SUBIR.html en computadora, cargar el index.html de esta versión, modificar textos y descargar el nuevo index.html. Sustituir el index.html de la carpeta de publicación y volver a subirla a Netlify.
+
+SEGURIDAD: El editor no tiene autenticación y nunca debe publicarse. El formulario es solo de contacto, no un expediente clínico. No se incluyen estadísticas ni agenda automática.
