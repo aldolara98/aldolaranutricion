@@ -1,0 +1,25 @@
+{
+  "titulo": "Aldo Lara",
+  "subtitulo": "Nutriólogo Deportivo",
+  "descripcion": "Estrategias de nutrición basadas en evidencia científica para optimizar el rendimiento, la composición corporal y la salud del deportista.",
+  "sobre_titulo": "La ciencia detrás de cada objetivo.",
+  "sobre_texto": "Soy Aldo Lara, nutriólogo deportivo. Mi enfoque combina evaluación individual, estrategias prácticas y evidencia científica para ayudarte a construir hábitos sostenibles y mejorar tu rendimiento.",
+  "servicios": [
+    {
+      "titulo": "Nutrición para deportistas",
+      "descripcion": "Planes individualizados para entrenamiento, competencia y recuperación."
+    },
+    {
+      "titulo": "Evaluación integral",
+      "descripcion": "Análisis de composición corporal, hábitos, requerimientos y objetivos."
+    },
+    {
+      "titulo": "Optimización del rendimiento",
+      "descripcion": "Estrategias de alimentación, hidratación y suplementación basadas en evidencia."
+    },
+    {
+      "titulo": "Consulta online",
+      "descripcion": "Acompañamiento profesional desde cualquier lugar, con seguimiento personalizado."
+    }
+  ]
+}
